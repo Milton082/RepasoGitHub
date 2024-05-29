@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        ObjectController metodo = new ObjectController();
+        ObjectController ordenamiento = new ObjectController();
         int[] Array = {42, 17, 23, 56, 89, 3, 14};
 
         // Imprimir los valores del array
